@@ -1,64 +1,81 @@
-# 🌍 EDVIZOR
+<h1 align="center">🌍 EDVIZOR</h1>
 
-> **Building Technology That Solves Real-World Problems**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=800&lines=Building+Technology+That+Solves+Real-World+Problems;Open-Source+%7C+Cybersecurity+%7C+Software+Engineering;Learn.+Build.+Secure.+Scale." />
+</p>
 
-EDVIZOR is a community-driven technology organization focused on creating practical, scalable, and impactful solutions using modern software engineering, cybersecurity, and emerging technologies.
-
-We believe technology should **educate, empower, and create real change** — not just remain a proof of concept.
-
----
-
-## 🚀 What We Do
-
-At EDVIZOR, we bridge the gap between **ideas and real-world execution** by building solutions that matter.
-
-### 🔧 Core Focus Areas
-- **Software Engineering**
-  - Web, Mobile, and Backend Systems
-  - Clean Architecture & Scalable Design
-- **Cybersecurity & Ethical Hacking**
-  - Security-first development
-  - Real-world attack and defense mindset
-- **Education Technology**
-  - Learning platforms and developer tools
-- **Automation & Productivity**
-  - Tools that simplify workflows and save time
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20Source-%E2%9C%94-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Community-Driven-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Real--World%20Impact-orange?style=for-the-badge"/>
+</p>
 
 ---
 
-## 🌱 Why EDVIZOR Exists
+## 🚀 About EDVIZOR
 
-Many projects stop at tutorials or demos.  
-EDVIZOR exists to go further.
+EDVIZOR is a **community-driven technology organization** focused on building **practical, scalable, and impactful solutions** using modern software engineering, cybersecurity, and emerging technologies.
 
-- Build with **real users** in mind  
-- Solve **practical problems**  
-- Emphasize **security, performance, and maintainability**  
-- Promote **learning by building**, not just reading  
+We believe technology should **solve real problems**, not just exist as demos or tutorials.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,100:0072ff&height=2" />
 
 ---
 
-## 🧠 What This Community Provides
+## 🔥 What We Do
 
-- 🛠 Open-source projects solving real-world problems  
-- 📚 Well-documented codebases for learning and contribution  
-- 🤝 A collaborative, growth-focused environment  
-- 🧪 Experimentation with modern and emerging technologies  
-- 🧑‍💻 Mentorship-driven developer growth  
+- 🧠 Build **real-world software systems**
+- 🔐 Apply **security-first development**
+- ⚙️ Create **automation & productivity tools**
+- 📚 Develop **learning & developer platforms**
+- 🌍 Promote **open-source collaboration**
 
-Whether you are a student, developer, or security enthusiast — EDVIZOR is a place to **build, break, and improve**.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,100:0072ff&height=2" />
 
 ---
 
-## 🏗️ Types of Projects You’ll Find Here
+## 🛠 Tech Stack & Tools
 
-- Web & Mobile Applications  
-- Cybersecurity Tools & Utilities  
-- Automation Scripts & Systems  
-- Learning Platforms & Experiments  
-- Research-driven Technical Projects  
+### 💻 Programming Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,c,cpp,cs,go,rust,swift,kotlin,php,ruby&theme=dark" />
+</p>
+
+### 🌐 Web Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express,django,flask,fastapi,spring&theme=dark" />
+</p>
+
+### 📱 Mobile Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=swift,flutter,reactnative,kotlin&theme=dark" />
+</p>
+
+### 🛢 Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,sqlite,firebase&theme=dark" />
+</p>
+
+### 🔐 Cybersecurity & DevOps
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,kali,docker,kubernetes,github,gitlab,jenkins,bash&theme=dark" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,100:0072ff&height=2" />
+
+---
+
+## 🏗️ Types of Projects
+
+- 🌐 Web & Mobile Applications  
+- 🔐 Cybersecurity Tools & Utilities  
+- ⚙️ Automation & System Tools  
+- 📚 Educational Platforms  
+- 🧪 Research & Experimental Projects  
 
 All projects are designed with **real-world applicability** in mind.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,100:0072ff&height=2" />
 
 ---
 
@@ -67,54 +84,50 @@ All projects are designed with **real-world applicability** in mind.
 We welcome contributors who:
 - Value **quality over quantity**
 - Believe in **clean, readable code**
-- Want to build technology with **real impact**
+- Want to create **real impact**
 
 ### How to Contribute
 1. Fork the repository  
-2. Create a new feature branch  
-3. Write clean, well-documented code  
+2. Create a feature branch  
+3. Write clean, documented code  
 4. Submit a pull request  
 
-Every meaningful contribution matters.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,100:0072ff&height=2" />
 
 ---
 
 ## 👥 Core Members
 
-### 👨‍💻 Muhammad Hussain Kadiwal
-- Software Engineer  
-- Ethical Hacking & Cybersecurity  
-- Python | Java | Swift | Kali Linux  
-- OSCP • OSEP • OSWE mindset  
+### 👨‍💻 [Muhammad Hussain Kadiwal](https://github.com/Kadiwalhussain)
+- 🚀 Software Engineer  
+- 🔐 Ethical Hacking & Cybersecurity  
+- 🐍 Python | ☕ Java | 🍎 Swift | 🐧 Kali Linux  
+- 🎯 OSCP • OSEP • OSWE mindset  
 
-### 👨‍💻 Abdullah Shaikh
-- Core Contributor  
-- Software & System Development  
-- Real-world problem solver  
+### 👨‍💻 [Abdullah Shaikh](https://github.com/Abdullah-Shaikh225)
+- ⚙️ Core Contributor  
+- 🧠 Software & System Development  
+- 🔍 Real-world problem solver  
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,100:0072ff&height=2" />
 
 ---
 
 ## 🌟 Our Vision
 
-> To build a strong, ethical, and skilled technology community that creates solutions for real-world problems — today and in the future.
+> To build a strong, ethical, and skilled technology community that creates solutions for real-world problems — today and for the future.
 
 ---
 
-## 📬 Get Involved
+## 🌍 Community Growth
 
-If you believe in:
-- Clean Code  
-- Secure Systems  
-- Practical Solutions  
-
-Then **EDVIZOR is for you**.
-
-⭐ Star the repository  
-🍴 Fork it  
-🤝 Contribute  
-📢 Share with the community  
+<p align="center">
+  <img src="https://contrib.rocks/image?repo=EDVIZOR/EDVIZOR" />
+</p>
 
 ---
 
-**Build. Secure. Educate. Empower.**  
-**— EDVIZOR**
+<p align="center">
+  <b>Build. Secure. Educate. Empower.</b><br>
+  <sub>EDVIZOR — Community Driven Technology</sub>
+</p>
